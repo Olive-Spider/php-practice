@@ -7,22 +7,13 @@
 </head>
 <body>
    <?php 
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
-   echo "Hello World!";
+   $bool = true;
+   $a = 1;
+   $b = 4;
+
+   if ($a < $b){
+    echo "First condition is true";
+   }
    ?> 
 </body>
 </html>
